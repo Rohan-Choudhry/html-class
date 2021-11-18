@@ -1,0 +1,16 @@
+*{
+    background-color: red;
+}
+
+#ahmad{
+    color: green;
+    background-color: aqua;
+}
+.movie{
+    background-color: indigo;
+    color: ivory;
+    border: lawngreen;
+    height: 30%;
+    width: 40%;
+    font-size: large;
+}
